@@ -115,7 +115,7 @@ section {
     margin: 0 5px;
 }
 
-button {
+.hero-form button {
     background-color: #024e76;
     color: #fce138;
     border: none;
